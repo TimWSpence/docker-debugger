@@ -1,5 +1,5 @@
 # docker-debugger
-A docker image with all the standard process/networking debug tools.
+A [docker image](https://hub.docker.com/r/timwspence/debugger/) with all the standard process/networking debug tools.
 Based on arch so the image should be relatively small.
 
 Currently the following packages are installed:
