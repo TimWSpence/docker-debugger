@@ -1,4 +1,5 @@
-# docker-debugger [![Build Status](https://travis-ci.org/TimWSpence/docker-debugger.svg?branch=master)](https://travis-ci.org/TimWSpence/docker-debugger)
+ [![Build Status](https://travis-ci.org/TimWSpence/docker-debugger.svg?branch=master)](https://travis-ci.org/TimWSpence/docker-debugger)
+# docker-debugger
 A [docker image](https://hub.docker.com/r/timwspence/debugger/) with all the standard process/networking debug tools.
 Based on arch so the image should be relatively small.
 
