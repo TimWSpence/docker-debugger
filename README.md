@@ -6,7 +6,7 @@ Currently the following packages are installed:
 - curl
 - tcpdump
 - wireshark-cli
-- nmap
+- nmap (includes ncat - arguably the best of the netcat implementations)
 - ngrep
 - lsof
 - strace
