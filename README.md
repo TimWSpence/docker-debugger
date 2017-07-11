@@ -5,12 +5,16 @@ Based on arch so the image should be relatively small.
 
 Currently the following packages are installed:
 - curl
+- traceroute
+- mtr
+- netdata
 - tcpdump
 - wireshark-cli
 - nmap (includes ncat - arguably the best of the netcat implementations)
 - ngrep
 - lsof
 - strace
+- htop
 
 ## Usage
 To debug another container:
