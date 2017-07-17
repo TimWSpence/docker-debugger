@@ -5,6 +5,7 @@ Based on arch so the image should be relatively small.
 Currently the following packages are installed:
 - curl
 - traceroute
+- nload
 - mtr
 - netdata
 - tcpdump
